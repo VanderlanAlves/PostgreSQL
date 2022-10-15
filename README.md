@@ -1,2 +1,2 @@
 # PostgreSQL
-Postgree Classes from Let's Code Bootcamp
+Postgree Exercices from Let's Code Bootcamp
